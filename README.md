@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amjad Al-Rahal</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
 
-- 👨‍💻 All of my projects are available at [Amjads.com](Amjads.com)
+- 👨‍💻 All of my projects are available at [Amjads.com](https://www.amjads.com/)
 
 - 💬 Ask me about **🐍 Python | 🌐 Django | 📜 JavaScript | 🍃 MongoDB | 🚀 Express.js | ⚛️ React.js | 🟢 Node.js | 🎨 HTML/CSS | 🌐 RESTful APIs | 🎨 UI Design | 🌐 Website Automation | 🌲 Git Version Control | 🔍 SEO**
 
